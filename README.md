@@ -1,2 +1,2 @@
-# dio-projeto-desafioUm-Git
-Projetos DIO - Desafio Um - Git/GitHub
+# Dio-Projetos-BootCampSantanderCoderGirls
+Projetos DIO - Desafios Bootcamp Santander Code Girls
